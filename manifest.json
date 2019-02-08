@@ -1,0 +1,16 @@
+{"dir" : "ltr",
+    "lang" : "en",
+    "name" : "Custom Vision Demo",
+    "scope" : "/",
+    "display" : "browser",
+    "start_url" : "https://jw-demo1.azurewebsites.net/",
+    "short_name" : "Custom Vision D",
+    "theme_color" : "transparent",
+    "description" : "",
+    "orientation" : "any",
+    "background_color" : "transparent",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "generated" : "true",
+    "icons" : [
+    ]}
